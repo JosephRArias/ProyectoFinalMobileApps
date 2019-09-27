@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\bin\Debug\netstandard2.0\ProyectoFinalMobile.deps.json
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\bin\Debug\netstandard2.0\ProyectoFinalMobile.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ProyectoFinalMobile.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ProyectoFinalMobile.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ProyectoFinalMobile.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ProyectoFinalMobile.AssemblyInfo.cs
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\bin\Debug\netstandard2.0\ref\ProyectoFinalMobile.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\bin\Debug\netstandard2.0\ProyectoFinalMobile.pdb
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ProyectoFinalMobile.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ref\ProyectoFinalMobile.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ProyectoFinalMobile.pdb
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\Views\EmptyPage.xaml.g.cs

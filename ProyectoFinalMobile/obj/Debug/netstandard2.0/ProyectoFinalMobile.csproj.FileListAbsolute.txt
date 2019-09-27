@@ -8,7 +8,7 @@ C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ProyectoFinalMobile.AssemblyInfo.cs
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\bin\Debug\netstandard2.0\ref\ProyectoFinalMobile.dll
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\bin\Debug\netstandard2.0\ProyectoFinalMobile.pdb
-C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ProyectoFinalMobile.dll
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ref\ProyectoFinalMobile.dll
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ProyectoFinalMobile.pdb
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\Views\EmptyPage.xaml.g.cs

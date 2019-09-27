@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\ProyectoFinalMobile\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj": {}
+    "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\ProyectoFinalMobile\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj": {
+    "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobile\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj",
         "projectName": "ProyectoFinalMobile.iOS",
-        "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobile\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobile\\ProyectoFinalMobile.iOS\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\ProyectoFinalMobile\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobile\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj"
+              "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj"
               }
             }
           }
@@ -42,6 +42,10 @@
       "frameworks": {
         "xamarinios10": {
           "dependencies": {
+            "Prism.Unity.Forms": {
+              "target": "Package",
+              "version": "[7.2.0.1367, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.1.0, )"
@@ -65,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\ProyectoFinalMobile\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
+    "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobile\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
         "projectName": "ProyectoFinalMobile",
-        "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobile\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobile\\ProyectoFinalMobile\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -109,6 +113,10 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Prism.Unity.Forms": {
+              "target": "Package",
+              "version": "[7.2.0.1367, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

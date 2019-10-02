@@ -2,6 +2,8 @@
 using Prism.Ioc;
 using Prism.Modularity;
 using Prism.Unity;
+using ProyectoFinalMobile.ViewModels;
+using ProyectoFinalMobile.Views;
 using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
@@ -12,9 +14,7 @@ namespace ProyectoFinalMobile
 	{
 		public App(IPlatformInitializer initializer = null) : base(initializer)
 		{
-			InitializeComponent();
 
-			MainPage = new MainPage();
 		}
 
 		protected override void OnStart()
@@ -34,12 +34,16 @@ namespace ProyectoFinalMobile
 
 		protected override void RegisterTypes(IContainerRegistry containerRegistry)
 		{
-			throw new NotImplementedException();
+			containerRegistry.RegisterForNavigation<RestaurantMasterDetailPage, RestaurantMasterDetailPageViewModel>();
+			containerRegistry.RegisterForNavigation<NavigationPage>();
+			containerRegistry.RegisterForNavigation<ExplorePage>();
+			containerRegistry.RegisterForNavigation<FavoritesPage>();
+			containerRegistry.RegisterForNavigation<ProfilePage>();
 		}
 
 		protected override void OnInitialized()
 		{
-			throw new NotImplementedException();
+			NavigationService.NavigateAsync($"{Config.MasterDetail}/NavigationPage");
 		}
 	}
 }

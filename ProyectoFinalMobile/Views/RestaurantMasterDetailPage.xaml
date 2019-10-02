@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ProyectoFinalMobile.Views.RestaurantMasterDetailPage">
+    <MasterDetailPage.Master>
+        <ContentPage Title="Menu">
+            <StackLayout BackgroundColor="Silver" Padding="20">
+                <Button Text="Explore"
+                        TextColor="Black"
+                        BackgroundColor="White"
+                        Command="{Binding OnExploreCommand}"
+                        CommandParameter="/ExplorePage"></Button>
+                <Button Text="Profile"
+                        TextColor="Black"
+                        BackgroundColor="White"
+                        Command="{Binding OnProfileCommand}"
+                        CommandParameter="/ProfilePage"></Button>
+                <Button Text="Favorites"
+                        TextColor="Black"
+                        BackgroundColor="White"
+                        Command="{Binding OnFavoritesCommand}"
+                        CommandParameter="/FavoritesPage"></Button>
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+</MasterDetailPage>

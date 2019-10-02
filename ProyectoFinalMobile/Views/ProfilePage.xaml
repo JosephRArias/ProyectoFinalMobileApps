@@ -7,9 +7,10 @@
              x:Class="ProyectoFinalMobile.Views.ProfilePage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="This is the Profile Page"
                 VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+                HorizontalOptions="CenterAndExpand"
+                FontAttributes="Bold"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

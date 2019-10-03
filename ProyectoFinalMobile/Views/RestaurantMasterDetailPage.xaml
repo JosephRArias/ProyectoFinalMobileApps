@@ -12,17 +12,17 @@
                         TextColor="Black"
                         BackgroundColor="White"
                         Command="{Binding OnExploreCommand}"
-                        CommandParameter="/ExplorePage"></Button>
+                        CommandParameter="NavigationPage/ExplorePage"></Button>
                 <Button Text="Profile"
                         TextColor="Black"
                         BackgroundColor="White"
                         Command="{Binding OnProfileCommand}"
-                        CommandParameter="/ProfilePage"></Button>
+                        CommandParameter="NavigationPage/ProfilePage"></Button>
                 <Button Text="Favorites"
                         TextColor="Black"
                         BackgroundColor="White"
                         Command="{Binding OnFavoritesCommand}"
-                        CommandParameter="/FavoritesPage"></Button>
+                        CommandParameter="NavigationPage/FavoritesPage"></Button>
             </StackLayout>
         </ContentPage>
     </MasterDetailPage.Master>

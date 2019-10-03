@@ -4,6 +4,11 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="ProyectoFinalMobile.Views.ExplorePage"
-             BackgroundColor="Red">
+             x:Class="ProyectoFinalMobile.Views.ExplorePage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand"
+                     HorizontalOptions="CenterAndExpand">
+            <Label Text="Here you will get to search restaurants"></Label>
+        </StackLayout>
+    </ContentPage.Content>
 </ContentPage>

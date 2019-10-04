@@ -43,7 +43,7 @@ namespace ProyectoFinalMobile
 
 		protected override void OnInitialized()
 		{
-			NavigationService.NavigateAsync($"{Config.MasterDetail}/NavigationPage");
+			NavigationService.NavigateAsync($"{NavigationConstants.MasterDetail}/NavigationPage");
 		}
 	}
 }

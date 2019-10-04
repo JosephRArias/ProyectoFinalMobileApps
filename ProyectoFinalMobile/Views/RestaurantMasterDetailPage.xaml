@@ -7,23 +7,26 @@
              x:Class="ProyectoFinalMobile.Views.RestaurantMasterDetailPage">
     <MasterDetailPage.Master>
         <ContentPage Title="Menu">
-            <StackLayout BackgroundColor="Silver" Padding="20">
-                <Button Text="Explore"
-                        TextColor="Black"
-                        BackgroundColor="White"
-                        Command="{Binding OnExploreCommand}"
-                        CommandParameter="NavigationPage/ExplorePage"></Button>
-                <Button Text="Profile"
-                        TextColor="Black"
-                        BackgroundColor="White"
-                        Command="{Binding OnProfileCommand}"
-                        CommandParameter="NavigationPage/ProfilePage"></Button>
-                <Button Text="Favorites"
-                        TextColor="Black"
-                        BackgroundColor="White"
-                        Command="{Binding OnFavoritesCommand}"
-                        CommandParameter="NavigationPage/FavoritesPage"></Button>
-            </StackLayout>
+            <ListView ItemsSource="{Binding Options}"
+                      BackgroundColor="Silver"
+                      x:Name="listv"
+                      SelectedItem="{Binding SelectedOption}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Padding="5,10">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="30"/>
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Image Source="{Binding IconSource}" />
+                                <Label Grid.Column="1" Text="{Binding Name}" />
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
         </ContentPage>
     </MasterDetailPage.Master>
 </MasterDetailPage>

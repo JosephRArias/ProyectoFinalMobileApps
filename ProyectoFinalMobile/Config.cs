@@ -4,11 +4,7 @@ using System.Text;
 
 namespace ProyectoFinalMobile
 {
-	public static class Config
+	class Config
 	{
-		public static string Profile = "ProfilePage";
-		public static string Favorites = "FavoritesPage";
-		public static string Explore = "ExplorePage";
-		public static string MasterDetail = "RestaurantMasterDetailPage";
 	}
 }

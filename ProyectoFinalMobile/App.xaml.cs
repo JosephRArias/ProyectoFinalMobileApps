@@ -1,16 +1,20 @@
-﻿using System;
+﻿using Prism;
+using Prism.Ioc;
+using Prism.Modularity;
+using Prism.Unity;
+using ProyectoFinalMobile.ViewModels;
+using ProyectoFinalMobile.Views;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace ProyectoFinalMobile
 {
-	public partial class App : Application
+	public partial class App : PrismApplication
 	{
-		public App()
+		public App(IPlatformInitializer initializer = null) : base(initializer)
 		{
-			InitializeComponent();
 
-			MainPage = new MainPage();
 		}
 
 		protected override void OnStart()
@@ -26,6 +30,20 @@ namespace ProyectoFinalMobile
 		protected override void OnResume()
 		{
 			// Handle when your app resumes
+		}
+
+		protected override void RegisterTypes(IContainerRegistry containerRegistry)
+		{
+			containerRegistry.RegisterForNavigation<RestaurantMasterDetailPage, RestaurantMasterDetailPageViewModel>();
+			containerRegistry.RegisterForNavigation<NavigationPage>();
+			containerRegistry.RegisterForNavigation<ExplorePage>();
+			containerRegistry.RegisterForNavigation<FavoritesPage>();
+			containerRegistry.RegisterForNavigation<ProfilePage>();
+		}
+
+		protected override void OnInitialized()
+		{
+			NavigationService.NavigateAsync($"{NavigationConstants.MasterDetail}/NavigationPage");
 		}
 	}
 }

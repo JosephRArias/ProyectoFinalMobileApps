@@ -36,14 +36,14 @@ namespace ProyectoFinalMobile
 		{
 			containerRegistry.RegisterForNavigation<RestaurantMasterDetailPage, RestaurantMasterDetailPageViewModel>();
 			containerRegistry.RegisterForNavigation<NavigationPage>();
-			containerRegistry.RegisterForNavigation<ExplorePage>();
-			containerRegistry.RegisterForNavigation<FavoritesPage>();
-			containerRegistry.RegisterForNavigation<ProfilePage>();
+			containerRegistry.RegisterForNavigation<ExplorePage, ExplorePageViewModel>();
+			containerRegistry.RegisterForNavigation<FavoritesPage, FavoritesPageViewModel>();
+			containerRegistry.RegisterForNavigation<ProfilePage, ProfilePageViewModel>();
 		}
 
 		protected override void OnInitialized()
 		{
-			NavigationService.NavigateAsync($"{NavigationConstants.MasterDetail}/NavigationPage");
+			NavigationService.NavigateAsync(NavigationConstants.MasterDetail.Route);
 		}
 	}
 }

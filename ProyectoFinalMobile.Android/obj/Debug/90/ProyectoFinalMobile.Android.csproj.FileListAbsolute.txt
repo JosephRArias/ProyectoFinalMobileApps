@@ -547,3 +547,6 @@ C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\o
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\res\drawable\ic_map.png
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\res\drawable\ic_assignment_ind.png
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\res\drawable\ic_star.png

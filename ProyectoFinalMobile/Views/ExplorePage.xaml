@@ -12,7 +12,6 @@
     </ContentPage.BindingContext>
     <Grid>
         <maps:Map x:Name="map"
-                      InitialCameraUpdate="40.77, -73.93, 13, 30, 60"
                       VerticalOptions="FillAndExpand"
                       HorizontalOptions="FillAndExpand"/>
         <StackLayout BackgroundColor="White"

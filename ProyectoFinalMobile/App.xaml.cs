@@ -39,11 +39,13 @@ namespace ProyectoFinalMobile
 			containerRegistry.RegisterForNavigation<ExplorePage, ExplorePageViewModel>();
 			containerRegistry.RegisterForNavigation<FavoritesPage, FavoritesPageViewModel>();
 			containerRegistry.RegisterForNavigation<ProfilePage, ProfilePageViewModel>();
+			containerRegistry.RegisterForNavigation<SearchPlacePage, ExplorePageViewModel>();
+			containerRegistry.RegisterForNavigation<LoginPage, LoginPageViewModel>();
 		}
 
 		protected override void OnInitialized()
 		{
-			NavigationService.NavigateAsync(NavigationConstants.MasterDetail.Route);
+			NavigationService.NavigateAsync(NavigationConstants.Login.Route);
 		}
 	}
 }

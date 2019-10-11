@@ -27,8 +27,20 @@ namespace ProyectoFinalMobile
 		public static class MasterDetail
 		{
 			public static string Name = "Home Page";
-			public static string Route = "RestaurantMasterDetailPage/NavigationPage";
+			public static string Route = "/RestaurantMasterDetailPage/NavigationPage";
 			public static string IconSource = "ic_star.png";
 		}
+		public static class Search
+		{
+			public static string Name = "Search";
+			public static string Route = "NavigationPage/SearchPlacePage";
+			public static string IconSource = "ic_assignment_ind.png";
+		}
+		public static class Login
+		{
+			public static string Name = "Login";
+			public static string Route = "LoginPage";
+		}
+
 	}
 }

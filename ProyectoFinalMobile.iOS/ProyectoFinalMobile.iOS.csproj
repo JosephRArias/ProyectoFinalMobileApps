@@ -64,6 +64,7 @@
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="GetSQLiteCon.cs" />
     <Compile Include="Location.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />

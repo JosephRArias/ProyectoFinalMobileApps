@@ -1,4 +1,5 @@
-﻿using ProyectoFinalMobile.Models;
+﻿using Prism.Navigation;
+using ProyectoFinalMobile.Models;
 using ProyectoFinalMobile.Services;
 using System;
 using System.Collections.Generic;
@@ -16,6 +17,7 @@ namespace ProyectoFinalMobile.ViewModels
 {
 	public class ExplorePageViewModel
 	{
+		INavigationService _navigationService;
 		public ICommand CalculateRouteCommand { get; set; }
 		public ICommand UpdatePositionCommand { get; set; }
 

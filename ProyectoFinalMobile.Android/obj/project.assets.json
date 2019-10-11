@@ -2201,24 +2201,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Users\\enman\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj",
+      "projectUniqueName": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj",
       "projectName": "ProyectoFinalMobile.Android",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\obj\\",
+      "projectPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj",
+      "packagesPath": "C:\\Users\\enman\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\enman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2232,8 +2232,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj"
+            "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
+              "projectPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj"
             }
           }
         }

@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj": {}
+    "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj": {
+    "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj",
+        "projectUniqueName": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj",
         "projectName": "ProyectoFinalMobile.Android",
-        "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\obj\\",
+        "projectPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj",
+        "packagesPath": "C:\\Users\\enman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\enman\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj"
+              "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
+                "projectPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj"
               }
             }
           }
@@ -86,21 +86,21 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
+    "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
+        "projectUniqueName": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
         "projectName": "ProyectoFinalMobile",
-        "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\obj\\",
+        "projectPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
+        "packagesPath": "C:\\Users\\enman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\enman\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

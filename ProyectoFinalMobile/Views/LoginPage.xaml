@@ -6,10 +6,18 @@
              mc:Ignorable="d"
              x:Class="ProyectoFinalMobile.Views.LoginPage">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <ScrollView>
+            <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+                <Image Source="foto7.png" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="150" HeightRequest="150"/>
+
+                <Entry Text="{Binding U.User}" Placeholder="Usuario"/>
+                <Entry Text="{Binding U.Password}" Placeholder="Contraseña" IsPassword="True"/>
+                <Label Text="{Binding r, Mode=TwoWay}" TextColor="Red"/>
+
+                <Button Command="{Binding SaveData}" Text="Iniciar Sesion" HorizontalOptions="Center" VerticalOptions="Center"/>
+                <Button Command="{Binding RegisterPage}" Text="Registro" HorizontalOptions="Center" VerticalOptions="Center"/>
+
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

@@ -43,9 +43,9 @@ namespace ProyectoFinalMobile.ViewModels
 		{
 			Options = new ObservableCollection<MenuOptions>()
 			{
-				new MenuOptions{Name = NavigationConstants.Explore, Page = "NavigationPage/ExplorePage", IconSource="ic_map.png"},
-				new MenuOptions{Name = NavigationConstants.Profile, Page = "NavigationPage/ProfilePage"},
-				new MenuOptions{Name = NavigationConstants.Favorites, Page = "NavigationPage/FavoritesPage"}
+				new MenuOptions{Name = NavigationConstants.Explore.Name, Page=NavigationConstants.Explore.Route, IconSource=NavigationConstants.Explore.IconSource },
+				new MenuOptions{Name = NavigationConstants.Profile.Name, Page = NavigationConstants.Profile.Route, IconSource=NavigationConstants.Profile.IconSource},
+				new MenuOptions{Name = NavigationConstants.Favorites.Name, Page = NavigationConstants.Favorites.Route, IconSource=NavigationConstants.Favorites.IconSource}
 
 			};
 		}

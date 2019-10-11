@@ -7,26 +7,33 @@
              x:Class="ProyectoFinalMobile.Views.RestaurantMasterDetailPage">
     <MasterDetailPage.Master>
         <ContentPage Title="Menu">
-            <ListView ItemsSource="{Binding Options}"
-                      BackgroundColor="Silver"
+            <StackLayout>
+                <Label Text="Menu" HorizontalOptions="CenterAndExpand" 
+                       VerticalOptions="CenterAndExpand" 
+                       FontAttributes="Bold"
+                       FontSize="Medium"></Label>
+                <ListView ItemsSource="{Binding Options}"
+                      BackgroundColor="White"
                       x:Name="listv"
                       SelectedItem="{Binding SelectedOption}">
-                <ListView.ItemTemplate>
-                    <DataTemplate>
-                        <ViewCell>
-                            <Grid Padding="5,10">
-                                <Grid.ColumnDefinitions>
-                                    <ColumnDefinition Width="30"/>
-                                    <ColumnDefinition Width="*" />
-                                </Grid.ColumnDefinitions>
-                                <Image Source="{Binding IconSource}" />
-                                <Label Grid.Column="1" Text="{Binding Name}" />
-                            </Grid>
-                        </ViewCell>
-                    </DataTemplate>
-                </ListView.ItemTemplate>
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Grid Padding="5,10">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="30"/>
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Image Source="{Binding IconSource}" />
+                                    <Label Grid.Column="1" Text="{Binding Name}" />
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
 
-            </ListView>
+                </ListView>
+            </StackLayout>
+               
         </ContentPage>
     </MasterDetailPage.Master>
 </MasterDetailPage>

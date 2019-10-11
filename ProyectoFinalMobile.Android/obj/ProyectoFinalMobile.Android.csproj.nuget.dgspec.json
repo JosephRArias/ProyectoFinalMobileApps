@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj": {}
+    "/Users/jorgemar/Documents/INTEC/Github/Enmanuel/ProyectoFinalMobileApps-DevBranchEnmanuel/ProyectoFinalMobile.Android/ProyectoFinalMobile.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj": {
+    "/Users/jorgemar/Documents/INTEC/Github/Enmanuel/ProyectoFinalMobileApps-DevBranchEnmanuel/ProyectoFinalMobile.Android/ProyectoFinalMobile.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj",
+        "projectUniqueName": "/Users/jorgemar/Documents/INTEC/Github/Enmanuel/ProyectoFinalMobileApps-DevBranchEnmanuel/ProyectoFinalMobile.Android/ProyectoFinalMobile.Android.csproj",
         "projectName": "ProyectoFinalMobile.Android",
-        "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\obj\\",
+        "projectPath": "/Users/jorgemar/Documents/INTEC/Github/Enmanuel/ProyectoFinalMobileApps-DevBranchEnmanuel/ProyectoFinalMobile.Android/ProyectoFinalMobile.Android.csproj",
+        "packagesPath": "/Users/jorgemar/.nuget/packages/",
+        "outputPath": "/Users/jorgemar/Documents/INTEC/Github/Enmanuel/ProyectoFinalMobileApps-DevBranchEnmanuel/ProyectoFinalMobile.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/jorgemar/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid90"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj"
+              "/Users/jorgemar/Documents/INTEC/Github/Enmanuel/ProyectoFinalMobileApps-DevBranchEnmanuel/ProyectoFinalMobile/ProyectoFinalMobile.csproj": {
+                "projectPath": "/Users/jorgemar/Documents/INTEC/Github/Enmanuel/ProyectoFinalMobileApps-DevBranchEnmanuel/ProyectoFinalMobile/ProyectoFinalMobile.csproj"
               }
             }
           }
@@ -86,29 +80,25 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
+    "/Users/jorgemar/Documents/INTEC/Github/Enmanuel/ProyectoFinalMobileApps-DevBranchEnmanuel/ProyectoFinalMobile/ProyectoFinalMobile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
+        "projectUniqueName": "/Users/jorgemar/Documents/INTEC/Github/Enmanuel/ProyectoFinalMobileApps-DevBranchEnmanuel/ProyectoFinalMobile/ProyectoFinalMobile.csproj",
         "projectName": "ProyectoFinalMobile",
-        "projectPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\obj\\",
+        "projectPath": "/Users/jorgemar/Documents/INTEC/Github/Enmanuel/ProyectoFinalMobileApps-DevBranchEnmanuel/ProyectoFinalMobile/ProyectoFinalMobile.csproj",
+        "packagesPath": "/Users/jorgemar/.nuget/packages/",
+        "outputPath": "/Users/jorgemar/Documents/INTEC/Github/Enmanuel/ProyectoFinalMobileApps-DevBranchEnmanuel/ProyectoFinalMobile/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/jorgemar/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -131,9 +121,21 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
             "Prism.Unity.Forms": {
               "target": "Package",
               "version": "[7.2.0.1367, )"
+            },
+            "PropertyChanged.Fody": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Refit": {
+              "target": "Package",
+              "version": "[4.7.51, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

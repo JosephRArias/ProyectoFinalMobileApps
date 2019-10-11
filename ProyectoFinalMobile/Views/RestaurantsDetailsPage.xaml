@@ -7,9 +7,24 @@
              x:Class="ProyectoFinalMobile.Views.RestaurantsDetailsPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Button Text="Near By" Command="{Binding getNearBySearchCommand}" HorizontalOptions="CenterAndExpand"
+                VerticalOptions="CenterAndExpand"/>
+            <ListView ItemsSource="{Binding Restaurants}"
+                  x:Name="listv">
+
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Label Text="{Binding Id}"/>
+                                <Label Text="{Binding Name}"/>
+                                <Label Text="{Binding Photo}"/>
+                                <Label Text="{Binding Scope}"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

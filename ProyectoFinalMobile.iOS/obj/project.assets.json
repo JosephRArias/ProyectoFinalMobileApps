@@ -110,7 +110,8 @@
       "Xamarin.Build.Download/0.4.7": {
         "type": "package",
         "build": {
-          "build/_._": {}
+          "build/Xamarin.Build.Download.props": {},
+          "build/Xamarin.Build.Download.targets": {}
         }
       },
       "Xamarin.Essentials/1.1.0": {
@@ -128,7 +129,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.0.0.425677": {
+      "Xamarin.Forms/4.2.0.848062": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -291,7 +292,7 @@
           "lib/Xamarin.iOS10/Google.Maps.dll": {}
         },
         "build": {
-          "build/_._": {}
+          "build/Xamarin.Google.iOS.Maps.targets": {}
         }
       },
       "ProyectoFinalMobile/1.0.0": {
@@ -423,7 +424,8 @@
       "Xamarin.Build.Download/0.4.7": {
         "type": "package",
         "build": {
-          "build/_._": {}
+          "build/Xamarin.Build.Download.props": {},
+          "build/Xamarin.Build.Download.targets": {}
         }
       },
       "Xamarin.Essentials/1.1.0": {
@@ -441,7 +443,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.0.0.425677": {
+      "Xamarin.Forms/4.2.0.848062": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -604,7 +606,7 @@
           "lib/Xamarin.iOS10/Google.Maps.dll": {}
         },
         "build": {
-          "build/_._": {}
+          "build/Xamarin.Google.iOS.Maps.targets": {}
         }
       },
       "ProyectoFinalMobile/1.0.0": {
@@ -736,7 +738,8 @@
       "Xamarin.Build.Download/0.4.7": {
         "type": "package",
         "build": {
-          "build/_._": {}
+          "build/Xamarin.Build.Download.props": {},
+          "build/Xamarin.Build.Download.targets": {}
         }
       },
       "Xamarin.Essentials/1.1.0": {
@@ -754,7 +757,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.0.0.425677": {
+      "Xamarin.Forms/4.2.0.848062": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -917,7 +920,7 @@
           "lib/Xamarin.iOS10/Google.Maps.dll": {}
         },
         "build": {
-          "build/_._": {}
+          "build/Xamarin.Google.iOS.Maps.targets": {}
         }
       },
       "ProyectoFinalMobile/1.0.0": {
@@ -1049,7 +1052,8 @@
       "Xamarin.Build.Download/0.4.7": {
         "type": "package",
         "build": {
-          "build/_._": {}
+          "build/Xamarin.Build.Download.props": {},
+          "build/Xamarin.Build.Download.targets": {}
         }
       },
       "Xamarin.Essentials/1.1.0": {
@@ -1067,7 +1071,7 @@
           "lib/xamarinios10/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.0.0.425677": {
+      "Xamarin.Forms/4.2.0.848062": {
         "type": "package",
         "compile": {
           "lib/Xamarin.iOS10/Xamarin.Forms.Core.dll": {},
@@ -1230,7 +1234,7 @@
           "lib/Xamarin.iOS10/Google.Maps.dll": {}
         },
         "build": {
-          "build/_._": {}
+          "build/Xamarin.Google.iOS.Maps.targets": {}
         }
       },
       "ProyectoFinalMobile/1.0.0": {
@@ -1557,10 +1561,10 @@
         "xamarin.essentials.nuspec"
       ]
     },
-    "Xamarin.Forms/4.0.0.425677": {
-      "sha512": "drwO/MimaMUnmvkULASYjU5MRciVIJyiLxD3ihFq8P+DWynQZ2NLNej0Vrs3k2L7UdmqvcgCxEJdfT7uFl2KVg==",
+    "Xamarin.Forms/4.2.0.848062": {
+      "sha512": "/JIC5p3M9h0MdSg+uH3Hy260YIWkXrQA8m4yO/3TQhSSIe+FNwyPi0SkIomvikunWXu6rEJh/aDbFYEyks0mbw==",
       "type": "package",
-      "path": "xamarin.forms/4.0.0.425677",
+      "path": "xamarin.forms/4.2.0.848062",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1780,12 +1784,13 @@
         "lib/uap10.0/Xamarin.Forms.Platform.UAP.pdb",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP.pri",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/AutoSuggestStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/CollectionView/ItemsViewStyles.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsCheckBoxStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsCommandBarStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsEmbeddedPageWrapper.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsFlyout.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsProgressBarStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsTextBoxStyle.xbf",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/Items/ItemsViewStyles.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/MasterDetailControlStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/PageControlStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Properties/Xamarin.Forms.Platform.UAP.rd.xml",
@@ -1798,7 +1803,7 @@
         "lib/uap10.0/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.4.0.0.425677.nupkg.sha512",
+        "xamarin.forms.4.2.0.848062.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -1876,10 +1881,14 @@
   },
   "projectFileDependencyGroups": {
     "Xamarin.iOS,Version=v1.0": [
+      "Newtonsoft.Json >= 12.0.2",
       "Prism.Unity.Forms >= 7.2.0.1367",
       "ProyectoFinalMobile >= 1.0.0",
+      "SQLite.Net-PCL >= 3.1.1",
       "Xamarin.Essentials >= 1.1.0",
-      "Xamarin.Forms >= 4.0.0.425677"
+      "Xamarin.Forms >= 4.2.0.848062",
+      "Xamarin.Forms.GoogleMaps >= 3.2.1",
+      "Xamarin.Forms.Maps >= 4.2.0.848062"
     ]
   },
   "packageFolders": {
@@ -1924,9 +1933,17 @@
     "frameworks": {
       "xamarinios10": {
         "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.2, )"
+          },
           "Prism.Unity.Forms": {
             "target": "Package",
             "version": "[7.2.0.1367, )"
+          },
+          "SQLite.Net-PCL": {
+            "target": "Package",
+            "version": "[3.1.1, )"
           },
           "Xamarin.Essentials": {
             "target": "Package",
@@ -1934,7 +1951,15 @@
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[4.0.0.425677, )"
+            "version": "[4.2.0.848062, )"
+          },
+          "Xamarin.Forms.GoogleMaps": {
+            "target": "Package",
+            "version": "[3.2.1, )"
+          },
+          "Xamarin.Forms.Maps": {
+            "target": "Package",
+            "version": "[4.2.0.848062, )"
           }
         }
       }
@@ -1950,20 +1975,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Degradación del paquete detectada: Xamarin.Forms de 4.2.0.848062 a 4.0.0.425677. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n ProyectoFinalMobile.iOS -> ProyectoFinalMobile -> Xamarin.Forms (>= 4.2.0.848062) \r\n ProyectoFinalMobile.iOS -> Xamarin.Forms (>= 4.0.0.425677)",
-      "libraryId": "Xamarin.Forms",
-      "targetGraphs": [
-        "Xamarin.iOS,Version=v1.0",
-        "Xamarin.iOS,Version=v1.0/win",
-        "Xamarin.iOS,Version=v1.0/win-x64",
-        "Xamarin.iOS,Version=v1.0/win-x86"
-      ]
-    }
-  ]
+  }
 }

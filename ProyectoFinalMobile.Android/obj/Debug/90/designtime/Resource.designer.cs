@@ -151,7 +151,6 @@ namespace ProyectoFinalMobile.Droid
 			global::Xamarin.Essentials.Resource.Style.Widget_Compat_NotificationActionContainer = global::ProyectoFinalMobile.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
 			global::Xamarin.Essentials.Resource.Style.Widget_Compat_NotificationActionText = global::ProyectoFinalMobile.Droid.Resource.Style.Widget_Compat_NotificationActionText;
 			global::Xamarin.Essentials.Resource.Style.Widget_Support_CoordinatorLayout = global::ProyectoFinalMobile.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
-			global::Xamarin.Essentials.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::ProyectoFinalMobile.Droid.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
 			global::Xamarin.Essentials.Resource.Styleable.ColorStateListItem = global::ProyectoFinalMobile.Droid.Resource.Styleable.ColorStateListItem;
 			global::Xamarin.Essentials.Resource.Styleable.ColorStateListItem_alpha = global::ProyectoFinalMobile.Droid.Resource.Styleable.ColorStateListItem_alpha;
 			global::Xamarin.Essentials.Resource.Styleable.ColorStateListItem_android_alpha = global::ProyectoFinalMobile.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
@@ -2774,17 +2773,17 @@ namespace ProyectoFinalMobile.Droid
 			// aapt resource value: 0x7F010010
 			public const int design_snackbar_out = 2130771984;
 			
-			// aapt resource value: 0x7F090018
-			public const int EnterFromLeft = 2131296280;
+			// aapt resource value: 0x7F080018
+			public const int EnterFromLeft = 2131230744;
 			
-			// aapt resource value: 0x7F090019
-			public const int EnterFromRight = 2131296281;
+			// aapt resource value: 0x7F080019
+			public const int EnterFromRight = 2131230745;
 			
-			// aapt resource value: 0x7F090020
-			public const int ExitToLeft = 2131296288;
+			// aapt resource value: 0x7F080020
+			public const int ExitToLeft = 2131230752;
 			
-			// aapt resource value: 0x7F090021
-			public const int ExitToRight = 2131296289;
+			// aapt resource value: 0x7F080021
+			public const int ExitToRight = 2131230753;
 			
 			static Animation()
 			{
@@ -5744,6 +5743,9 @@ namespace ProyectoFinalMobile.Droid
 			// aapt resource value: 0x7F09005C
 			public const int design_snackbar_background = 2131296348;
 			
+			// aapt resource value: 0x7F010002
+			public const int ic_assignment_ind = 2130771970;
+			
 			// aapt resource value: 0x7F090055
 			public const int ic_audiotrack_dark = 2131296341;
 			
@@ -5852,8 +5854,8 @@ namespace ProyectoFinalMobile.Droid
 			// aapt resource value: 0x7F090078
 			public const int ic_group_expand_15 = 2131296376;
 			
-			// aapt resource value: 0x7F010002
-			public const int ic_map = 2130771970;
+			// aapt resource value: 0x7F010003
+			public const int ic_map = 2130771971;
 			
 			// aapt resource value: 0x7F090079
 			public const int ic_media_pause_dark = 2131296377;
@@ -6268,6 +6270,9 @@ namespace ProyectoFinalMobile.Droid
 			
 			// aapt resource value: 0x7F09005F
 			public const int ic_mtrl_chip_close_circle = 2131296351;
+			
+			// aapt resource value: 0x7F010004
+			public const int ic_star = 2130771972;
 			
 			// aapt resource value: 0x7F090100
 			public const int ic_vol_type_speaker_dark = 2131296512;
@@ -12166,22 +12171,6 @@ namespace ProyectoFinalMobile.Droid
 			}
 			
 			private Styleable()
-			{
-			}
-		}
-		
-		public partial class Xml
-		{
-			
-			// aapt resource value: 0x7F080002
-			public const int xamarin_essentials_fileprovider_file_paths = 2131230722;
-			
-			static Xml()
-			{
-				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
-			}
-			
-			private Xml()
 			{
 			}
 		}

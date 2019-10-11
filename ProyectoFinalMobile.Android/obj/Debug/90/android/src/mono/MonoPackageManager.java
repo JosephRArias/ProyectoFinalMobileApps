@@ -116,6 +116,7 @@ class MonoPackageManager_Resources {
 		"Prism.dll",
 		"Prism.Forms.dll",
 		"Prism.Unity.Forms.dll",
+		"PropertyChanged.dll",
 		"ProyectoFinalMobile.dll",
 		"Refit.dll",
 		"System.Runtime.CompilerServices.Unsafe.dll",

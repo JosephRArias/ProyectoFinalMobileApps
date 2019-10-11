@@ -1887,11 +1887,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchEnmanuel\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj",
       "projectName": "ProyectoFinalMobile.iOS",
-      "projectPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj",
+      "projectPath": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchEnmanuel\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj",
       "packagesPath": "C:\\Users\\enman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.iOS\\obj\\",
+      "outputPath": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchEnmanuel\\ProyectoFinalMobile.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1912,8 +1912,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
-              "projectPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj"
+            "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchEnmanuel\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
+              "projectPath": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchEnmanuel\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj"
             }
           }
         }

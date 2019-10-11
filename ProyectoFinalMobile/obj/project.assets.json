@@ -1090,11 +1090,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
+      "projectUniqueName": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchEnmanuel\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
       "projectName": "ProyectoFinalMobile",
-      "projectPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
+      "projectPath": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchEnmanuel\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
       "packagesPath": "C:\\Users\\enman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\obj\\",
+      "outputPath": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchEnmanuel\\ProyectoFinalMobile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

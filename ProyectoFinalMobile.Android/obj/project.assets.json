@@ -2537,11 +2537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj",
+      "projectUniqueName": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchEnmanuel\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj",
       "projectName": "ProyectoFinalMobile.Android",
-      "projectPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj",
+      "projectPath": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchEnmanuel\\ProyectoFinalMobile.Android\\ProyectoFinalMobile.Android.csproj",
       "packagesPath": "C:\\Users\\enman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.Android\\obj\\",
+      "outputPath": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchEnmanuel\\ProyectoFinalMobile.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2562,8 +2562,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
-              "projectPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj"
+            "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchEnmanuel\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
+              "projectPath": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchEnmanuel\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj"
             }
           }
         }

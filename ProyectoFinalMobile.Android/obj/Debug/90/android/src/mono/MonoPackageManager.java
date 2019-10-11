@@ -112,10 +112,12 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "ProyectoFinalMobile.Android.dll" comes first in this list. */
 		"ProyectoFinalMobile.Android.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.dll",
 		"Prism.dll",
 		"Prism.Forms.dll",
 		"Prism.Unity.Forms.dll",
 		"ProyectoFinalMobile.dll",
+		"Refit.dll",
 		"System.Runtime.CompilerServices.Unsafe.dll",
 		"Unity.Abstractions.dll",
 		"Unity.Container.dll",

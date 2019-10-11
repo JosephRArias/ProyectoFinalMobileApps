@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj": {}
+    "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchJose\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj": {
+    "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchJose\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchJose\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj",
         "projectName": "ProyectoFinalMobile.iOS",
-        "projectPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj",
+        "projectPath": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchJose\\ProyectoFinalMobile.iOS\\ProyectoFinalMobile.iOS.csproj",
         "packagesPath": "C:\\Users\\enman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile.iOS\\obj\\",
+        "outputPath": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchJose\\ProyectoFinalMobile.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
-                "projectPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj"
+              "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchJose\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
+                "projectPath": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchJose\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
+    "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchJose\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
+        "projectUniqueName": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchJose\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
         "projectName": "ProyectoFinalMobile",
-        "projectPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
+        "projectPath": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchJose\\ProyectoFinalMobile\\ProyectoFinalMobile.csproj",
         "packagesPath": "C:\\Users\\enman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\enman\\Documents\\ProyectoFinalMobileApps\\ProyectoFinalMobile\\obj\\",
+        "outputPath": "C:\\Users\\enman\\Downloads\\ProyectoFinalMobileApps-DevBranchJose\\ProyectoFinalMobile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -114,9 +114,17 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
             "Prism.Unity.Forms": {
               "target": "Package",
               "version": "[7.2.0.1367, )"
+            },
+            "Refit": {
+              "target": "Package",
+              "version": "[4.7.51, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

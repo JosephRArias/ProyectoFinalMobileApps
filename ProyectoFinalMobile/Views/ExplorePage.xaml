@@ -6,16 +6,33 @@
              xmlns:maps="clr-namespace:Xamarin.Forms.GoogleMaps;assembly=Xamarin.Forms.GoogleMaps"
              xmlns:vm="clr-namespace:ProyectoFinalMobile.ViewModels"
              mc:Ignorable="d"
-             x:Class="ProyectoFinalMobile.Views.ExplorePage"
-             CalculateCommand="{Binding CalculateRouteCommand}"
-             UpdateCommand="{Binding UpdatePositionCommand}">
+             x:Class="ProyectoFinalMobile.Views.ExplorePage">
     <ContentPage.BindingContext>
         <vm:ExplorePageViewModel/>
     </ContentPage.BindingContext>
-    <StackLayout>
+    <Grid>
         <maps:Map x:Name="map"
                       InitialCameraUpdate="40.77, -73.93, 13, 30, 60"
                       VerticalOptions="FillAndExpand"
                       HorizontalOptions="FillAndExpand"/>
-    </StackLayout>
+        <StackLayout BackgroundColor="White"
+                        Orientation="Horizontal"
+                        VerticalOptions="Start"
+                        Padding="10"
+                        x:Name="searchLayout"
+                        Margin="30,50,30,0">
+            <Image Source="ic_search"
+                              HeightRequest="15"
+                              WidthRequest="15"/>
+            <Label HorizontalOptions="FillAndExpand"
+                              LineBreakMode="TailTruncation"
+                              FontAttributes="Italic"
+                              Text="Search Place"
+                              TextColor="Gray"/>
+            <StackLayout.GestureRecognizers>
+                <TapGestureRecognizer 
+                               Tapped="OnEnterAddressTapped" />
+            </StackLayout.GestureRecognizers>
+        </StackLayout>
+    </Grid>
 </ContentPage>

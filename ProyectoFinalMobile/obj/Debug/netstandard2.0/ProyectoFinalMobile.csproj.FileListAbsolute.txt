@@ -20,3 +20,4 @@ C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\Views\SignupPage.xaml.g.cs
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\Views\RestaurantMasterDetailPage.xaml.g.cs
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\Views\SearchPlacePage.xaml.g.cs

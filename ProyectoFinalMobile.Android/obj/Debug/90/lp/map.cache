@@ -4,6 +4,8 @@ Prism
 Prism.Forms
 Prism.Unity.Forms
 ProyectoFinalMobile
+SQLite.Net
+SQLite.Net.Platform.XamarinAndroid
 System.Runtime.CompilerServices.Unsafe
 System.Runtime
 Unity.Abstractions
@@ -61,3 +63,4 @@ Xamarin.GooglePlayServices.Basement
 Xamarin.GooglePlayServices.Maps
 Xamarin.GooglePlayServices.Tasks
 netstandard
+System.Reflection.Extensions

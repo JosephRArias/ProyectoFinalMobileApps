@@ -117,6 +117,8 @@ class MonoPackageManager_Resources {
 		"Prism.Forms.dll",
 		"Prism.Unity.Forms.dll",
 		"ProyectoFinalMobile.dll",
+		"SQLite.Net.dll",
+		"SQLite.Net.Platform.XamarinAndroid.dll",
 		"System.Runtime.CompilerServices.Unsafe.dll",
 		"Unity.Abstractions.dll",
 		"Unity.Container.dll",

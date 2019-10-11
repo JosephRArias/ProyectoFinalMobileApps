@@ -7,6 +7,7 @@ namespace ProyectoFinalMobile
 	public static class Config
 	{
 		public static string ApiKey = "AIzaSyBvhCtMUXrHTRz0MWxWWXmAhLRjW_p_asE";
+		public const string ApiBaseAddress = "https://maps.googleapis.com/maps/";
 
 	}
 }

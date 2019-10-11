@@ -50,6 +50,10 @@
               "target": "Package",
               "version": "[7.2.0.1367, )"
             },
+            "SQLite.Net-PCL": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.1.0, )"
@@ -133,6 +137,10 @@
             "Prism.Unity.Forms": {
               "target": "Package",
               "version": "[7.2.0.1367, )"
+            },
+            "SQLite.Net-PCL": {
+              "target": "Package",
+              "version": "[3.1.1, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

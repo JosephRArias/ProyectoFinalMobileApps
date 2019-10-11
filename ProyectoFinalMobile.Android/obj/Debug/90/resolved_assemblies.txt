@@ -8,6 +8,8 @@ C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\o
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\Prism.Forms.dll
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\Prism.Unity.Forms.dll
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\ProyectoFinalMobile.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\SQLite.Net.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\SQLite.Net.Platform.XamarinAndroid.dll
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Core.dll
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.dll
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Numerics.dll
@@ -79,5 +81,15 @@ C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\o
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Web.Services.dll
-C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\Mono.Security.dll
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Collections.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Reflection.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Diagnostics.Debug.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Runtime.Extensions.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Linq.Expressions.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Linq.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Reflection.Extensions.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Globalization.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Threading.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Text.Encoding.dll
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\Mono.Security.dll

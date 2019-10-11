@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "7ef2db558a2d23ee926fbb711a43b0604a9b042c"
+    "signature": "321942077293a6e62934f11ae20e641382312b30"
   },
   "compilationOptions": {},
   "targets": {
@@ -12,6 +12,7 @@
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "12.0.2",
           "Prism.Unity.Forms": "7.2.0.1367",
+          "PropertyChanged.Fody": "3.1.3",
           "Refit": "4.7.51",
           "Xamarin.Essentials": "1.1.0",
           "Xamarin.Forms": "4.0.0.425677"
@@ -20,6 +21,7 @@
           "ProyectoFinalMobile.dll": {}
         }
       },
+      "Fody/6.0.0": {},
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "NETStandard.Library/2.0.3": {
         "dependencies": {
@@ -63,6 +65,18 @@
           "lib/netstandard2.0/Prism.Unity.Forms.dll": {
             "assemblyVersion": "7.2.0.1367",
             "fileVersion": "7.2.0.1367"
+          }
+        }
+      },
+      "PropertyChanged.Fody/3.1.3": {
+        "dependencies": {
+          "Fody": "6.0.0",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.0/PropertyChanged.dll": {
+            "assemblyVersion": "3.1.3.0",
+            "fileVersion": "3.1.3.0"
           }
         }
       },
@@ -148,6 +162,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Fody/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rH9Q7GapghyLYESfeCUOqh0S70eLc3FAikIgEEyGeng3JJf1M7mt2BUxjz93o3ipDXLrKn1s69AIEolmnVn8xg==",
+      "path": "fody/6.0.0",
+      "hashPath": "fody.6.0.0.nupkg.sha512"
+    },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
       "serviceable": true,
@@ -189,6 +210,13 @@
       "sha512": "sha512-HG15TVwDDyTM0Zhd9sk/sFoQUqXr/oWNNa9jc8tgTPcDwnJE91L5tcVL5KozerlO/Kp/gyvr735j74TcBCrERA==",
       "path": "prism.unity.forms/7.2.0.1367",
       "hashPath": "prism.unity.forms.7.2.0.1367.nupkg.sha512"
+    },
+    "PropertyChanged.Fody/3.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GaTTQdS8NCVMBrBGIu43XwyicIyD7iIp9zFLK57Q2kfba6BffMGt4bl0jwfkMysbdqUjP4oZcunvbQBauWieUQ==",
+      "path": "propertychanged.fody/3.1.3",
+      "hashPath": "propertychanged.fody.3.1.3.nupkg.sha512"
     },
     "Refit/4.7.51": {
       "type": "package",

@@ -7,6 +7,7 @@ C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\Prism.dll
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\Prism.Forms.dll
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\Prism.Unity.Forms.dll
+C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\PropertyChanged.dll
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\ProyectoFinalMobile.dll
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\Refit.dll
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Core.dll
@@ -72,5 +73,5 @@ C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.dll
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Web.Services.dll
-C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\Mono.Security.dll
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\System.Runtime.dll
+C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\Mono.Security.dll

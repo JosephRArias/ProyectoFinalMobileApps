@@ -1662,3 +1662,5 @@ C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\linksrc\PropertyChanged.dll
+C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile.Android\obj\Debug\90\android\assets\PropertyChanged.dll

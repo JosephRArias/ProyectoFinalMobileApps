@@ -39,7 +39,6 @@ namespace ProyectoFinalMobile
 			containerRegistry.RegisterForNavigation<ExplorePage, ExplorePageViewModel>();
 			containerRegistry.RegisterForNavigation<FavoritesPage, FavoritesPageViewModel>();
 			containerRegistry.RegisterForNavigation<ProfilePage, ProfilePageViewModel>();
-            containerRegistry.RegisterForNavigation<RestaurantsDetailsPage, RestaurantsDetailsPageViewModel>();
         }
 
 		protected override void OnInitialized()

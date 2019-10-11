@@ -63,3 +63,5 @@ C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\n
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ProyectoFinalMobile.dll
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ref\ProyectoFinalMobile.dll
 C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ProyectoFinalMobile.pdb
+C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ProyectoFinalMobile.csproj.Fody.CopyLocal.cache
+C:\Users\enman\Documents\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\XamlC.stamp

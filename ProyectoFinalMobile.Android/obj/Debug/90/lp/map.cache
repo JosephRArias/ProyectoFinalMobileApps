@@ -3,6 +3,7 @@ Newtonsoft.Json
 Prism
 Prism.Forms
 Prism.Unity.Forms
+PropertyChanged
 ProyectoFinalMobile
 Refit
 System.Runtime.CompilerServices.Unsafe
@@ -54,4 +55,3 @@ Xamarin.Forms.Platform.Android
 Xamarin.Forms.Platform
 Xamarin.Forms.Xaml
 netstandard
-PropertyChanged

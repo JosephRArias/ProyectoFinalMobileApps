@@ -8,13 +8,13 @@
     <ContentPage.Content>
         <ScrollView>
             <StackLayout VerticalOptions="Center" HorizontalOptions="FillAndExpand">
-                <Image Source="foto7.png" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="150" HeightRequest="150"/>
+                <Image Source="login.png" VerticalOptions="CenterAndExpand" HorizontalOptions="Center"></Image>
 
                 <Entry Text="{Binding U.Username}" Placeholder="Usuario"/>
                 <Entry Text="{Binding U.Password}" Placeholder="Contraseña" IsPassword="True"/>
 
-                <Button Command="{Binding SaveData}" Text="Iniciar Sesion" HorizontalOptions="Center" VerticalOptions="Center"/>
-                <Button Command="{Binding RegisterPage}" Text="Registro" HorizontalOptions="Center" VerticalOptions="Center"/>
+                <Button Command="{Binding SaveData}" Text="Iniciar Sesion" HorizontalOptions="CenterAndExpand" VerticalOptions="Center"/>
+                <Button Command="{Binding RegisterPage}" Text="Registro" HorizontalOptions="CenterAndExpand" VerticalOptions="Center"/>
 
             </StackLayout>
         </ScrollView>

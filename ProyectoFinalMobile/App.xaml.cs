@@ -41,6 +41,7 @@ namespace ProyectoFinalMobile
 			containerRegistry.RegisterForNavigation<ProfilePage, ProfilePageViewModel>();
 			containerRegistry.RegisterForNavigation<SearchPlacePage, ExplorePageViewModel>();
 			containerRegistry.RegisterForNavigation<LoginPage, LoginPageViewModel>();
+			containerRegistry.RegisterForNavigation<SignupPage, SignupPageViewModel>();
 		}
 
 		protected override void OnInitialized()

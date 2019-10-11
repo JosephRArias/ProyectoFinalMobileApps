@@ -6,10 +6,18 @@
              mc:Ignorable="d"
              x:Class="ProyectoFinalMobile.Views.SignupPage">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <ScrollView>
+            <StackLayout>
+                <Image Source="login.png" VerticalOptions="CenterAndExpand" HorizontalOptions="Center"></Image>
+                <Entry Text="{Binding RData.Username}" Placeholder="Nombre" VerticalOptions="Center" HorizontalOptions="FillAndExpand"/>
+                <Entry Text="{Binding RData.IDCard}" Keyboard="Numeric" Placeholder="Cedula" VerticalOptions="Center" HorizontalOptions="FillAndExpand"></Entry>
+                <Entry Text="{Binding RData.Password}" Placeholder="Contraseña" VerticalOptions="Center" HorizontalOptions="FillAndExpand" IsPassword="True"/>
+                <Entry Text="{Binding RData.ConfirmPassword}" Placeholder="Confirmar Contraseña" VerticalOptions="Center" HorizontalOptions="FillAndExpand" IsPassword="True"/>
+                <Label Text="{Binding R, Mode=TwoWay}" TextColor="Red"/>
+                <Button Command="{Binding SaveRegister, Mode=TwoWay}" 
+                       Text="Guardar Datos" 
+                        HorizontalOptions="Center" VerticalOptions="Center"/>
+            </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>

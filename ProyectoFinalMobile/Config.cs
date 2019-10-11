@@ -4,7 +4,9 @@ using System.Text;
 
 namespace ProyectoFinalMobile
 {
-	class Config
+	public static class Config
 	{
+		public static string ApiKey = "AIzaSyBvhCtMUXrHTRz0MWxWWXmAhLRjW_p_asE";
+
 	}
 }

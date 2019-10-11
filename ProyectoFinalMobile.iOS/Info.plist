@@ -20,7 +20,12 @@
         <string>UIInterfaceOrientationLandscapeLeft</string>
         <string>UIInterfaceOrientationLandscapeRight</string>
     </array>
-    <key>MinimumOSVersion</key>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Can we use your location at all times?</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Can we use your location when your app is being used?</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>Can we use your location at all times?</string>
     <string>8.0</string>
     <key>CFBundleDisplayName</key>
     <string>ProyectoFinalMobile</string>

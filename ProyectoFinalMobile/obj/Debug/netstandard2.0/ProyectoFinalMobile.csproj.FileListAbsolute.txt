@@ -12,7 +12,6 @@ C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ref\ProyectoFinalMobile.dll
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\ProyectoFinalMobile.pdb
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\Views\EmptyPage.xaml.g.cs
-C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\Views\ExplorePage.xaml.g.cs
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\Views\FavoritesPage.xaml.g.cs
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
@@ -20,3 +19,4 @@ C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\Views\RestaurantsDetailsPage.xaml.g.cs
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\Views\SignupPage.xaml.g.cs
 C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\Views\RestaurantMasterDetailPage.xaml.g.cs
+C:\Users\User\source\repos\ProyectoFinalMobileApps\ProyectoFinalMobile\obj\Debug\netstandard2.0\XamlC.stamp

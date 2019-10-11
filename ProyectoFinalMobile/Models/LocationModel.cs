@@ -10,7 +10,7 @@ namespace ProyectoFinalMobile.Models
 			public double Lat { get; set; }
 			public double Lng { get; set; }
 		}
-		public class Northeast
+		/*public class Northeast
 		{
 			public double Lat { get; set; }
 			public double Lng { get; set; }
@@ -21,7 +21,7 @@ namespace ProyectoFinalMobile.Models
 			public double Lat { get; set; }
 			public double Lng { get; set; }
 		}
-
+		*/
 		public class Viewport
 		{
 			public Northeast Northeast { get; set; }

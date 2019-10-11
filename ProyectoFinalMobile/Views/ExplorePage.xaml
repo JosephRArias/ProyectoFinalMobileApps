@@ -3,12 +3,19 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:maps="clr-namespace:Xamarin.Forms.GoogleMaps;assembly=Xamarin.Forms.GoogleMaps"
+             xmlns:vm="clr-namespace:ProyectoFinalMobile.ViewModels"
              mc:Ignorable="d"
-             x:Class="ProyectoFinalMobile.Views.ExplorePage">
-    <ContentPage.Content>
-        <StackLayout VerticalOptions="CenterAndExpand"
-                     HorizontalOptions="CenterAndExpand">
-            <Label Text="Here you will get to search restaurants"></Label>
-        </StackLayout>
-    </ContentPage.Content>
+             x:Class="ProyectoFinalMobile.Views.ExplorePage"
+             CalculateCommand="{Binding CalculateRouteCommand}"
+             UpdateCommand="{Binding UpdatePositionCommand}">
+    <ContentPage.BindingContext>
+        <vm:ExplorePageViewModel/>
+    </ContentPage.BindingContext>
+    <StackLayout>
+        <maps:Map x:Name="map"
+                      InitialCameraUpdate="40.77, -73.93, 13, 30, 60"
+                      VerticalOptions="FillAndExpand"
+                      HorizontalOptions="FillAndExpand"/>
+    </StackLayout>
 </ContentPage>
